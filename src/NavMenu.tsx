@@ -215,7 +215,7 @@ export default function NavMenu({ editor, saved, onCreateNewDocument }: NavMenuP
             >
               <MenuItem
                 onClick={() => {
-                  window.open('https://github.com/typpo/arkose/wiki', '_blank');
+                  window.open('https://github.com/typpo/wordwise/wiki', '_blank');
                 }}
               >
                 <ListItemIcon>
@@ -225,7 +225,7 @@ export default function NavMenu({ editor, saved, onCreateNewDocument }: NavMenuP
               </MenuItem>
               <MenuItem
                 onClick={() => {
-                  window.open('https://github.com/typpo/arkose', '_blank');
+                  window.open('https://github.com/typpo/wordwise', '_blank');
                 }}
               >
                 <ListItemIcon>
@@ -239,7 +239,7 @@ export default function NavMenu({ editor, saved, onCreateNewDocument }: NavMenuP
                 {remainingCompletions} completions remaining.{' '}
                 <a
                   target="_blank"
-                  href="https://github.com/typpo/arkose/wiki/Obtaining-a-GPT-3-API-key"
+                  href="https://github.com/typpo/wordwise/wiki/Obtaining-a-GPT-3-API-key"
                 >
                   Learn more
                 </a>
@@ -248,8 +248,8 @@ export default function NavMenu({ editor, saved, onCreateNewDocument }: NavMenuP
           </div>
           <div className={styles.menuRight}>
             <div className={styles.brand} onClick={() => doCompletion(editor)}>
-              Arkose
-              <img src={Logo} alt="Arkose logo" />
+              WordWise
+              <img src={Logo} alt="WordWise logo" />
             </div>
           </div>
           {/*
