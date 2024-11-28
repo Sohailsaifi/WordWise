@@ -23,6 +23,8 @@ Completions work best when you've already written at least a few sentences.
 <img width="600" src="https://user-images.githubusercontent.com/310310/202607175-0a7d9cea-ebc0-4280-b6e4-3b0353d9806b.gif"/>
 <img width="600" src="https://user-images.githubusercontent.com/310310/202637536-56963069-db63-4396-9357-0deef2d8fc5a.gif"/>
 <img width="600" src="https://user-images.githubusercontent.com/310310/202637594-bf480b0d-ad1e-4d13-ba7c-00bd03f59543.gif"/>
+![image](https://github.com/user-attachments/assets/298b732c-ae23-40cd-a192-1af66401976a)
+
 
 ## Setup and installation
 
